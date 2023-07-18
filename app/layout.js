@@ -1,11 +1,5 @@
 import '../styles/globals.css';
 
-export const metadata = {
-  title: "Home",
-  description: "My Practice Next App",
-};
-
-
 const RootLayout = ({ children }) => (
   <html lang="en">
     <head>
